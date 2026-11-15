@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "raildirector",
+  "version": "${version}",
+  "name": "Rail Director",
+  "description": "Use a wrench on vanilla detector rails to command nearby vanilla rail shapes.",
+  "authors": ["TechMonkey"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.techmonkey.raildirector.RailDirector"],
+    "client": ["com.techmonkey.raildirector.client.RailDirectorClient"]
+  },
+  "mixins": ["raildirector.mixins.json"],
+  "depends": {
+    "minecraft": "~26.3",
+    "fabricloader": ">=0.19.5",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "item.raildirector.rail_wrench": "Rail Wrench",
+  "screen.raildirector.title": "Rail Director",
+  "screen.raildirector.help": "Select Active or Inactive, then click two rail ends to connect.",
+  "screen.raildirector.detected": "Detected tracks: %s",
+  "screen.raildirector.detector": "Detector",
+  "screen.raildirector.no_rail": "%s: No rail",
+  "screen.raildirector.rail": "%s Rail",
+  "screen.raildirector.selected": "Junction: %s",
+  "screen.raildirector.absent": "Inactive: %s",
+  "screen.raildirector.present": "Active: %s",
+  "screen.raildirector.save": "Save",
+  "screen.raildirector.clear": "Clear detector",
+  "screen.raildirector.saved": "Rail Director settings saved",
+  "screen.raildirector.cleared": "Detector released",
+  "shape.raildirector.north_south": "North-South",
+  "shape.raildirector.east_west": "East-West",
+  "shape.raildirector.south_east": "South-East",
+  "shape.raildirector.south_west": "South-West",
+  "shape.raildirector.north_west": "North-West",
+  "shape.raildirector.north_east": "North-East"
+}

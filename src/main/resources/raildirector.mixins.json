@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.techmonkey.raildirector.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "DetectorRailBlockMixin",
+    "RailBlockMixin",
+    "RailStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
